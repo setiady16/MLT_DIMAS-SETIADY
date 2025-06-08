@@ -21,6 +21,7 @@ Empat model klasifikasi yang digunakan:
 - K-Nearest Neighbors (KNN)
 
 4. Hasil Evaluasi Model
+   
 | Model               | Accuracy | Precision (class 1) | Recall (class 1) | F1-Score (class 1) | ROC-AUC |
 | ------------------- | -------- | ------------------- | ---------------- | ------------------ | ------- |
 | Logistic Regression | 0.75     | 0.14                | 0.24             | 0.20               | 0.80    |
